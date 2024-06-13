@@ -1,0 +1,36 @@
+.c1 {
+  right: 50.5%;
+  border-radius: 25px;
+  display: flex;
+  bottom: 220%;
+  height: 99%;
+  background-color: aquamarine;
+  position: absolute;
+  width: 50%;
+  /* border: 1px solid greenyellow; */
+}
+
+.one {
+  object-fit: fill;
+  width: 30%;
+  /* border: 1px solid red; */
+}
+.one img {
+  width: 100%;
+}
+.two {
+  font-size: 16px;
+  color: rgb(58, 14, 14);
+  font-weight: bold;
+  /* height: ư0%; */
+  font-family: "Times New Roman", Times, serif;
+  width: 70%;
+  /* border: 1px solid red; */
+  background-image: linear-gradient(to top, black, transparent);
+}
+
+.two button {
+  position: absolute;
+  right: 0%;
+  top: 80%;
+}
