@@ -3,7 +3,7 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 import { mov } from "./data/mov";
-import Movie from "./components/Movie";
+import Movie from "./components/movie/Movie";
 
 function App() {
   // const [count, setCount] = useState(0);

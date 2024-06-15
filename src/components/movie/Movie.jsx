@@ -1,6 +1,6 @@
 import "./movie.css";
 import { useState } from "react";
-import Modal from "./modal/Modal";
+import Modal from "../modal/Modal";
 //id unique,requird
 // name max length 100,required
 // birthyear > curent year ,def 199-

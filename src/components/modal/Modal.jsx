@@ -1,7 +1,7 @@
 import React from "react";
 import "./modal.css";
 
-const modal = ({ des, id, hinhAnh, ep, name, close }) => {
+const Modal = ({ des, id, hinhAnh, ep, name, close }) => {
   return (
     <>
       <div className="c1">
@@ -20,4 +20,4 @@ const modal = ({ des, id, hinhAnh, ep, name, close }) => {
   );
 };
 
-export default modal;
+export default Modal;
